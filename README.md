@@ -1,2 +1,1 @@
-# smd-linux-template
-Template for Repositories
+# SMD-Linux Configuration for Plasma
